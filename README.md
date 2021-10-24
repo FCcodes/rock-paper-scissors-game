@@ -9,6 +9,7 @@ This web application is a **Rock Raper Scissors** game made with [Next js](https
 
 ### Website Snapshots
 
+
 ![Screenshot 2021-10-22 at 23-46-21 Create Next App](https://user-images.githubusercontent.com/78990260/138575366-5e7cff48-c8d8-42da-8137-a47918661ee0.png)
 
 ![Screenshot 2021-10-22 at 23-46-39 Create Next App](https://user-images.githubusercontent.com/78990260/138575373-219638ef-39c9-40a3-8869-e9b2381b4e8e.png)
